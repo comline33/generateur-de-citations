@@ -1,0 +1,40 @@
+/* --------------------
+-----------------------
+GENERAL
+-----------------------
+----------------------*/
+body{
+	margin:0;
+	padding:0;
+	background-color:#fcf4ed ;
+}
+.container-custom{
+
+	margin-top: 200px;
+
+}
+
+.btn-custom{
+	margin-top: 50px;
+	margin-bottom: 150px;
+	display: flex;
+	justify-content: space-around;
+
+}
+.container-custom .para{
+	width: 800px;
+	height: 200px;
+	margin: 20px auto;
+	background-color: #ffff;
+
+
+	
+}
+.container-custom h3 {
+	text-align: center ;
+}
+.container-custom .cadre{
+	border :3px solid #f9a154 ;
+	border-radius: 10px;
+
+}
